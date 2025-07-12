@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senadhi Ranaweera</h1>
 <h3 align="center">🎓 Engineering Undergraduate | 🤖 IoT & Robotics Innovator | 🧠 AI & Computer Vision Enthusiast 🔬 Researcher | 💡 Building Smart Solutions | 🇱🇰 University of Moratuwa | Team JASPERN</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="senadhi-ranaweera-146888254" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/senadhi-ranaweera-146888254?trk=profile-badge">SENADHI RANAWEERA</a></div>
+
               
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwaran" alt="nuwaran" /></a> </p>
 
@@ -12,7 +12,8 @@
 
 - 📊 Data & Signal Processing **NI DAQ, LabVIEW integration**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/senadhi-ranaweera-146888254](www.linkedin.com/in/senadhi-ranaweera-146888254)
+- 👨‍💻 All of my projects are available at <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="senadhi-ranaweera-146888254" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/senadhi-ranaweera-146888254?trk=profile-badge">SENADHI RANAWEERA</a></div>
+              
 
 - 💬 Ask me about **Computer Vision , IoT**
 
