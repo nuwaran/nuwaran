@@ -4,7 +4,8 @@
               
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwaran" alt="nuwaran" /></a> </p>
 
-- 🔭 AI/ML & Computer Vision [Gait recognition, weapon detection with YOLO, smart security systems]([https://www.linkedin.com/posts/senadhi-ranaweera-146888254_gaitrecognition-humanwalkingpattern-biometricsecurity-activity-7349295907558871040-JZ41?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7HHsYBpQa0GJcUaREP77lgUHSlRFStIY4](https://www.linkedin.com/in/senadhiranaweera/details/projects/))
+🔭 **AI/ML & Computer Vision** [Gait recognition, weapon detection with YOLO, smart security systems](https://www.linkedin.com/in/senadhiranaweera/details/projects/)
+
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
