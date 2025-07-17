@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
-- 🔌IoT Systems [Smart home energy optimization, real-time sensor networks, automation](https://www.linkedin.com/posts/senadhi-ranaweera-146888254_technovation2025-teamsparksquad-universityofmoratuwa-activity-7323557984268169216-aB1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7HHsYBpQa0GJcUaREP77lgUHSlRFStIY4)
+🔌 **IoT Systems** [Smart home energy optimization, real-time sensor networks, automation](https://www.linkedin.com/posts/senadhiranaweera_technovation2025-teamsparksquad-universityofmoratuwa-activity-7323557984268169216-jYvX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7HHsYBpQa0GJcUaREP77lgUHSlRFStIY4)
+
 
 - 📊 Data & Signal Processing **NI DAQ, LabVIEW integration**
 
