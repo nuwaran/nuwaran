@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **ranaweerarans.22@uom.lk**
 
-📄 Know about my experiences [https://www.canva.com/design/DAGrqG8fCuE/0_jR03F-nnx24w5sZmqzAw/view?utm_content=DAGrqG8fCuE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ee2ddf2b0](https://www.canva.com/design/DAGrqG8fCuE/0_jR03F-nnx24w5sZmqzAw/view?utm_content=DAGrqG8fCuE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ee2ddf2b0)
+📄 Know about my experiences [My CV](https://www.canva.com/design/DAGrqG8fCuE/0_jR03F-nnx24w5sZmqzAw/view?utm_content=DAGrqG8fCuE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ee2ddf2b0)
+
 
 
 <h3 align="left">Connect with me:</h3>
